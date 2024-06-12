@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cita-ro/static/css/main.c4864beb.css",
+    "main.js": "/cita-ro/static/js/main.fb39b1a6.js",
+    "static/js/453.ab85e248.chunk.js": "/cita-ro/static/js/453.ab85e248.chunk.js",
+    "index.html": "/cita-ro/index.html",
+    "main.c4864beb.css.map": "/cita-ro/static/css/main.c4864beb.css.map",
+    "main.fb39b1a6.js.map": "/cita-ro/static/js/main.fb39b1a6.js.map",
+    "453.ab85e248.chunk.js.map": "/cita-ro/static/js/453.ab85e248.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4864beb.css",
+    "static/js/main.fb39b1a6.js"
+  ]
+}
